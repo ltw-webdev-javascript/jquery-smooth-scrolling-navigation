@@ -1,4 +1,4 @@
-# Smooth scrolling navigation
+# jQuery Smooth scrolling navigation
 
 **Watch a video that explains how to use smooth scrolling then implement it on a pre-made website navigation.**
 
@@ -8,7 +8,7 @@
 
 This is the starter code for a step-by-step lesson. Each step is described in detail here:
 
-### [**Follow the Smooth scrolling navigation step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/javascript/smooth-scrolling-navigation/)
+### [**Follow the jQuery smooth scrolling navigation step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/javascript/jquery-smooth-scrolling-navigation/)
 
 ---
 
